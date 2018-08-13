@@ -1,6 +1,6 @@
 ## This is a simple ecommerce test store built with Rails/Spree.
 
-[Spree Docs:](https://guides.spreecommerce.org/)
+[Spree Docs](https://guides.spreecommerce.org/)
 
 ### Added Feature: 
 Filter products index page by most recent products through /just_in route in main navbar.
@@ -19,7 +19,7 @@ rails s
 ### Run Tests:
 rake spec
 
-### TODO:
+### TODOs:
 Add more tests to ProductsController#just_in
 
 
